@@ -1,5 +1,5 @@
 # DeepIndel
-An interpretable deep learning approach for predictingCRISPR/Cas9-mediated editing outcomes.
+An interpretable deep learning approach for predicting CRISPR/Cas9-mediated editing outcomes.
 
 Below is the layout of the whole model.
 ![DeepIndel](https://github.com/user-attachments/assets/0c219c17-4f4d-4106-947e-fdbafc88101b)
