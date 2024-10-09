@@ -2,7 +2,7 @@
 An interpretable deep learning approach for predicting CRISPR/Cas9-mediated editing outcomes.
 
 Below is the layout of the whole model.
-![DeepIndel](https://github.com/user-attachments/assets/0c219c17-4f4d-4106-947e-fdbafc88101b)
+![DeepIndel](https://github.com/user-attachments/assets/9541f543-e30f-4b35-8afe-dd9ae64774b3)
 # Enviroment
 * Keras 2.5.0
 * TensorFlow-GPU 2.5.0
